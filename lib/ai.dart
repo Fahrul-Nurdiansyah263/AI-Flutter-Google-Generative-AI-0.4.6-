@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-String apiKey = "AIzaSyAZAviJvAjSA99C_Z5Q3mXeSNiBZNeshnE";
+String apiKey = "YOUR_API_KEY";
 
 // Suggested code may be subject to a license. Learn more: ~LicenseLog:3783361899.
 // Suggested code may be subject to a license. Learn more: ~LicenseLog:1308165798.
