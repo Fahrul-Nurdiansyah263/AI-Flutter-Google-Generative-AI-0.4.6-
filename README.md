@@ -1,16 +1,37 @@
-# ai
+🤖 Gemini AI Chat App (Flutter)
+Aplikasi ini adalah chatbot sederhana berbasis Flutter yang terintegrasi dengan Google Generative AI (Gemini API). Aplikasi ini memungkinkan pengguna untuk mengirim pesan dan menerima respons cerdas dari model AI.
 
-A new Flutter project.
+---
 
-## Getting Started
+🚀 Fitur Utama
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+✅ UI Chat interaktif dan bersih
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🤖 Integrasi dengan model gemini-1.5-flash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📜 Mendukung percakapan dua arah (pengguna & AI)
+
+📤 Mengirim dan menerima pesan dalam waktu nyata
+
+🎯 Otomatis scroll ke pesan terbaru
+
+---
+
+🛠️ Teknologi yang Digunakan
+Flutter
+
+google_generative_ai
+
+Material Design
+
+---
+
+📦 Instalasi
+1. Clone repository
+
+2. Ganti YOUR_API_KEY pada kode dengan API Key Gemini.
+
+3. Jalankan aplikasi:
+   flutter pub get
+   flutter run
