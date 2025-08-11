@@ -35,3 +35,10 @@ Material Design
 3. Jalankan aplikasi:
    flutter pub get
    flutter run
+
+
+
+
+TAMPILAN
+
+<img width="464" height="859" alt="image" src="https://github.com/user-attachments/assets/dffd6fe5-066d-4aec-977c-258d0599420d" />
